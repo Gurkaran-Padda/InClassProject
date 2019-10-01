@@ -3,4 +3,6 @@
     <string name="button">ToastButton</string>
     <string name="hint">Type here</string>
     <string name="todo">TODO</string>
+    <string name="welcome_to_my_app">Welcome to my App!</string>
+    <string name="welcome">Welcome!</string>
 </resources>
